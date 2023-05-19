@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm new to this thing and still collecting my first experiences with coding and theming. (That's why this profile is still so empty)
 <!--
 **AffeChristoph/AffeChristoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
